@@ -51,5 +51,3 @@ const [toggle, setToggle] = useState(false);
 }
 
 export default Navbar
-
-// https://www.youtube.com/watch?v=_oO4Qi5aVZs&t=8s 33:32
